@@ -3,7 +3,7 @@
 I'm a passionate **Full Stack Developer**, **Machine Learning Enthusiast**, and **Software Engineer** with a strong focus on delivering efficient and scalable solutions. I love solving complex problems, whether it's optimizing algorithms or building responsive web applications. 
 
 ## 👨‍💻 About Me
-- 💼 Actively looking for a Full-time SDE or ML Engineer role & Currently working as a **Software Developer Intern** at OWP (California State University), where I developed the **Storm Water Analytics** platform using **ReactJS** and **TypeScript**.
+- 💼 Actively looking for a Full-time SDE or ML Engineer role & Currently working as a **Full Stack Developer** at OWP (California State University), where I developed the **Storm Water Analytics** platform using **ReactJS** and **TypeScript**.
 - 🌐 I have 3+ years of experience as a **Spring Boot** developer, building microservices, REST APIs, and optimizing performance.
 - 📚 Pursuing a **Master's in Computer Science** at California State University, Sacramento, with a GPA of **3.85**, expected to graduate in **December 2024**.
 - 🧠 Currently exploring **Machine Learning** and **Generative AI** with projects like **Heart Disease Prediction using KNN** and **Email Generator using LangChain and ChromaDB**.
