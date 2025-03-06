@@ -29,8 +29,6 @@ I'm a passionate **Full Stack Developer**, **Machine Learning Enthusiast**, and 
 **AI/ML:**  
 `TensorFlow` | `PyTorch` | `Keras` | `Hugging Face` | `Scikit-learn` | `OpenAI API` | `LangChain` | `Llama`
 
-Here is the rewritten **Projects** section for your GitHub README based on the provided details:
-
 ## 📈 Projects
 
 - **Email Generator using LangChain, Llama-3.1, and ChromaDB** - *(Aug 2024 - Sep 2024)*  
