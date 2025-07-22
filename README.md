@@ -15,7 +15,7 @@ I'm a passionate **Full Stack Developer**, **Machine Learning Enthusiast**, and 
 
 ## 🛠️ Technical Skills
 **Languages:**  
-`Java 8` | `JavaScript (ES6)` | `TypeScript` | `Python` | `SQL` | `C++`
+`Java 17` | `JavaScript (ES6)` | `TypeScript` | `Python` | `SQL` | `C++`
 
 **Frameworks:**  
 `ReactJS` | `Redux` | `NextJS` | `Spring Boot` | `Jest` | `Flask` | `Node.js` | `JDBC` | `Selenium` | `JPA/Hibernate`
